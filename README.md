@@ -5,4 +5,5 @@
 <h2>Baixar o Git</h2>
 <p>Deve-se instalar o Git na sua maquina</p>
 <p>Após a instalação devemos iniciar o git</p>
-<p>No git escreva o comando <strong>git config --global user.name "username"</strong> <br> Assim você consegue</p>
+<p>No git escreva o comando <strong>git config --global user.name "username"</strong> <br> Assim você consegue informar ao git o seu nome de usuário no github</p>
+<p>Agora use o <strong>git config --global user.email "email"</strong> com esse comando você ira informar ao git o seu email cadastrado no github</p>
