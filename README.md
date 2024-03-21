@@ -2,6 +2,10 @@
 <h1>Instruções</h1>
 <h2>Criar uma pasta</h2>
 <p>Primeiramente, crie uma pasta e adicione um arquivo qualquer</p>
+
+<h2>Github</h2>
+<p>No github entre na sua conta e na pagina inicial do github crie um repositório <strong>clicando no botao com um simbolo de mais</strong>e depois clicando em <strong>new repository</strong></p>
+
 <h2>Baixar o Git</h2>
 <p>Deve-se instalar o Git na sua maquina</p>
 <p>Após a instalação devemos iniciar o git</p>
