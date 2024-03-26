@@ -85,6 +85,8 @@
 <h3>Adicionando um membro ao repositório</h3>
   <p>após tudo isso você deve ter conseguido mandar o arquivo ao github mas agora vamos adicionar um membro ao seu repositório</p>
 
+![WhatsApp Image 2024-03-25 at 4 34 28 PM (3)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/2d68448e-e3bc-4123-aa0f-d3baa02d14a3)
+
   <p>cliclando nas settings/confugurações você deve ir em general/geral e ir na opção "add people"</p>
 
 ![WhatsApp Image 2024-03-25 at 4 34 28 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/f90279fe-f098-4ba4-8091-ac4a9d671667)
