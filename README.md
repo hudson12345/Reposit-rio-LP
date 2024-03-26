@@ -93,6 +93,8 @@
 
   <p>o github ira pedir o nome de usuario ou email da pessoa que você deseja adicionar, você precisa saber algum desses dados corretamente</p>
 
+  ![WhatsApp Image 2024-03-25 at 4 34 27 PM (2)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/54df3379-94eb-4fb8-8b28-b01008c0fa55)
+
   <p>em seguida o pedido para colaboração sera enviado a pessoa e ela tera que aceitar para poder ver e alterar seu repositório</p>
 
   
