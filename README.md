@@ -63,6 +63,7 @@
 <h4>git status</h4>
   <p>Ele fala o status do diretório de trabalho, ele permite com que você veja as alterações preparadas e despreparadas, quais arquivos não estão sendo monitorados pelo git e quais estão sendo monitorados</p>  
 
+![WhatsApp Image 2024-03-25 at 4 34 30 PM](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/8917b37e-47a9-4bc4-be3c-805f8d3893b7)
 
 <h4>git commit -m</h4>
   <p>O comando <strong>git commit -m 'mensagem'</strong> leva as mudanças do ambiente local até o repositório do git, permitindo a inserção de uma mensagem que descreva oque a sua mudança faz</p>
