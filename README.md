@@ -68,6 +68,7 @@
 <h4>git commit -m</h4>
   <p>O comando <strong>git commit -m 'mensagem'</strong> leva as mudanças do ambiente local até o repositório do git, permitindo a inserção de uma mensagem que descreva oque a sua mudança faz</p>
 
+![WhatsApp Image 2024-03-25 at 4 34 27 PM (3)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/b2361570-f6bb-4d48-8f81-f17cc14ba994)
 
 <h3>Ultimas etapas</h3>
   <p>Como é a primeira vez que você faz isso o git ira abrir uma tela para que você se conecte a sua conta do github, isso só ira acontecer na primeira vez que você faz</p>
