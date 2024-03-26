@@ -87,7 +87,7 @@
 
   <p>cliclando nas settings/confugurações você deve ir em general/geral e ir na opção "add people"</p>
 
-
+![WhatsApp Image 2024-03-25 at 4 34 28 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/f90279fe-f098-4ba4-8091-ac4a9d671667)
 
   ![WhatsApp Image 2024-03-25 at 4 34 29 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/9e9d1e1d-b61f-4d45-a67d-1a7d69b5b16d)
 
