@@ -40,6 +40,8 @@
  <h4>git Init</h4>
   <p>Agora após informar seu nome e email vamos realmente começar pelo comando <strong>git init</strong> esse comando é usado na configuração inicial e serve para criar um novo repositório no git e também para inicializar um novo repositório vazio</p>
 
+![WhatsApp Image 2024-03-25 at 4 34 26 PM (2)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/0b6961f9-1c2b-4bc9-acbd-33bdb04e00f5)
+
 <h4>git remote add origin</h4>
   <p>Vamos usar agora o comando <strong>git remote add origin 'link do seu repositório' </strong> com esse comando você informa onde está o seu repositório por meio de um link do github</p>
 
