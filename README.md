@@ -35,6 +35,8 @@
    A primeira coisa que você precisa fazer é logar o seu usuário, com o comando <stong>(git config --global user.name "nome do usuário)</stong> você conseguira falar ao git o seu nome de usuário da sua conta no github e por meio do comando <strong>(git config --global user.email "email do usuário")</strong> você informara ao git qual o seu email de usuário da sua conta no github.
  </p>
 
+ ![WhatsApp Image 2024-03-25 at 4 34 26 PM (3)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/228e8701-81e2-4a00-a689-88a52f38ace7)
+
  <h4>git Init</h4>
   <p>Agora após informar seu nome e email vamos realmente começar pelo comando <strong>git init</strong> esse comando é usado na configuração inicial e serve para criar um novo repositório no git e também para inicializar um novo repositório vazio</p>
 
