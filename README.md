@@ -13,6 +13,8 @@
    <p>Após isso abrira uma tela de configurações do seu novo repositório. Nessa tela você pode escolher o nome do repositório, 
    colocar uma descrição, deixar o repositório público ou privado e o mais importante Adicionar um arquivo README.md, README é       um arquivo onde você informa a outras pessoas por que o seu projeto é útil, o que elas podem fazer com o projeto e como elas      podem usá-lo. é importante sempre adicionar um arquivo README marcando a caixinha "add a README file", em seguida você pode       clicar em <strong>create a new repository</strong> </p>
 
+   ![WhatsApp Image 2024-03-25 at 4 34 25 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/bfd6c13c-03e0-4d2d-8640-25dfd3772c6c)
+
   <p>Agora já com o repositório criado, como mostra a imagem a baixo, podemos mandar um arquivo para o seu novo repositório</p>
 
 <h2>Enviando um arquivo para o seu repositório</h2>
