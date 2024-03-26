@@ -30,9 +30,42 @@
   <p>Agora após informar seu nome e email vamos realmente começar pelo comando <strong>git init</strong> esse comando é usado na configuração inicial e serve para criar um novo repositório no git e também para inicializar um novo repositório vazio</p>
 
 <h4>git remote add origin</h4>
-  <p>Vamos usar agora o comando </p>
+  <p>Vamos usar agora o comando <strong>git remote add origin 'link do seu repositório' </strong> com esse comando você informa onde está o seu repositório por meio de um link do github</p>
 
- 
   
-  
+  <br>
+  <p>importante falar que para conseguir o link do seu repositório é necessario ir no github clicar em no botão verde escrito "code" e copiar o link em https.</p>
 
+  
+  <br>
+<h4>git pull --allow-unrelated-histories 'link do repositório'</h4>
+ <p>Com esse comando você recupera arquivos já existentes no servidor e mescla com os arquivos locais que estiverem nos diretórios</p>
+
+<h4>git add .</h4>
+ <p>O comando <strong>git add .</strong> adiciona e prepara para enviou ao github os arquivos que você tem localmente</p>
+
+<h4>git status</h4>
+  <p>Ele fala o status do diretório de trabalho, ele permite com que você veja as alterações preparadas e despreparadas, quais arquivos não estão sendo monitorados pelo git e quais estão sendo monitorados</p>  
+
+
+<h4>git commit -m</h4>
+  <p>O comando <strong>git commit -m 'mensagem'</strong> leva as mudanças do ambiente local até o repositório do git, permitindo a inserção de uma mensagem que descreva oque a sua mudança faz</p>
+
+
+<h3>Ultimas etapas</h3>
+  <p>Como é a primeira vez que você faz isso o git ira abrir uma tela para que você se conecte a sua conta do github, isso só ira acontecer na primeira vez que você faz</p>
+
+ <h4>git push origin master</h4>
+   <p>Esse comando <strong>git push origin master</strong> empurra os arquivos/alterações para o seu repositório no github </p>
+
+
+<h3>Adicionando um membro ao repositório</h3>
+  <p>após tudo isso você deve ter conseguido mandar o arquivo ao github mas agora vamos adicionar um membro ao seu repositório</p>
+
+  <p>cliclando nas settings/confugurações você deve ir em general/geral e ir na opção "add people"</p>
+
+  <p>o github ira pedir o nome de usuario ou email da pessoa que você deseja adicionar, você precisa saber algum desses dados corretamente</p>
+
+  <p>em seguida o pedido para colaboração sera enviado a pessoa e ela tera que aceitar para poder ver e alterar seu repositório</p>
+
+  
