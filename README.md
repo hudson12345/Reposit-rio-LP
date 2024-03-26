@@ -73,6 +73,8 @@
 <h3>Ultimas etapas</h3>
   <p>Como é a primeira vez que você faz isso o git ira abrir uma tela para que você se conecte a sua conta do github, isso só ira acontecer na primeira vez que você faz</p>
 
+  ![WhatsApp Image 2024-03-25 at 4 34 29 PM (2)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/67ba7f05-431c-4cf5-8d2c-d9bf2c8d424a)
+
  <h4>git push origin master</h4>
    <p>Esse comando <strong>git push origin master</strong> empurra os arquivos/alterações para o seu repositório no github </p>
 
