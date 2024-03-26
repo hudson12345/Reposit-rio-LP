@@ -54,6 +54,8 @@
 <h4>git pull --allow-unrelated-histories 'link do repositório'</h4>
  <p>Com esse comando você recupera arquivos já existentes no servidor e mescla com os arquivos locais que estiverem nos diretórios</p>
 
+![WhatsApp Image 2024-03-25 at 4 34 29 PM (3)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/2afe7fff-93ee-4231-8cc8-8e816ead58c6)
+
 <h4>git add .</h4>
  <p>O comando <strong>git add .</strong> adiciona e prepara para enviou ao github os arquivos que você tem localmente</p>
 
