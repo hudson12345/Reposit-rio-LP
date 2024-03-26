@@ -18,6 +18,8 @@
 
   <p>Agora já com o repositório criado, como mostra a imagem a baixo, podemos mandar um arquivo para o seu novo repositório</p>
 
+![WhatsApp Image 2024-03-25 at 4 34 28 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/2cf60c44-bef5-4456-bf26-21f9744c3f98)
+
 <h2>Enviando um arquivo para o seu repositório</h2>
   <h3>Criando uma pasta local</h3>
    <p>Crie uma pasta contendo o arquivo que você deseja mandar para o github, no meu caso estou usando um arquivo de texto</p>
@@ -84,6 +86,10 @@
   <p>após tudo isso você deve ter conseguido mandar o arquivo ao github mas agora vamos adicionar um membro ao seu repositório</p>
 
   <p>cliclando nas settings/confugurações você deve ir em general/geral e ir na opção "add people"</p>
+![WhatsApp Image 2024-03-25 at 4 34 28 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/2cf60c44-bef5-4456-bf26-21f9744c3f98)
+
+
+  ![WhatsApp Image 2024-03-25 at 4 34 29 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/9e9d1e1d-b61f-4d45-a67d-1a7d69b5b16d)
 
   <p>o github ira pedir o nome de usuario ou email da pessoa que você deseja adicionar, você precisa saber algum desses dados corretamente</p>
 
