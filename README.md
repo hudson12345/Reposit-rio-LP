@@ -21,6 +21,8 @@
 
   <p> <strong>Clique com o botão direito do mouse na pasta e vá em "Open Git Bash here"</strong> essa opção abrira o git na sua pasta selecionada</p>
 
+![WhatsApp Image 2024-03-25 at 4 34 25 PM (2)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/6e97e8f2-bfb7-4673-9ab7-3219306308ff)
+
 <h3>Comandos iniciais</h3>
   <p>Assim sera aberto o cmd do git que aparecerá para você começar a mandar o arquivo por meio de códigos.
    A primeira coisa que você precisa fazer é logar o seu usuário, com o comando <stong>(git config --global user.name "nome do usuário)</stong> você conseguira falar ao git o seu nome de usuário da sua conta no github e por meio do comando <strong>(git config --global user.email "email do usuário")</strong> você informara ao git qual o seu email de usuário da sua conta no github.
