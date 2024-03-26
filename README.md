@@ -24,6 +24,8 @@
 
 ![WhatsApp Image 2024-03-25 at 4 34 25 PM](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/f4647fc8-2f24-419c-9a8e-6f62c7cfd32d)
 
+![WhatsApp Image 2024-03-25 at 4 34 27 PM (1)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/ee4102fc-b9ab-4227-92e0-23b816f32c07)
+
   <p> <strong>Clique com o botão direito do mouse na pasta e vá em "Open Git Bash here"</strong> essa opção abrira o git na sua pasta selecionada</p>
 
 ![WhatsApp Image 2024-03-25 at 4 34 25 PM (2)](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/6e97e8f2-bfb7-4673-9ab7-3219306308ff)
