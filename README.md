@@ -9,6 +9,7 @@
 
   <p>No github entre na sua conta e na pagina inicial do github crie um repositório <strong>clicando no botao com um simbolo de       mais</strong>e depois clicando em <strong>new repository</strong></p>
 
+![WhatsApp Image 2024-03-25 at 4 34 27 PM](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/c3fd2066-5a0c-4dd7-a5b8-502a375f41c5)
   
    <p>Após isso abrira uma tela de configurações do seu novo repositório. Nessa tela você pode escolher o nome do repositório, 
    colocar uma descrição, deixar o repositório público ou privado e o mais importante Adicionar um arquivo README.md, README é       um arquivo onde você informa a outras pessoas por que o seu projeto é útil, o que elas podem fazer com o projeto e como elas      podem usá-lo. é importante sempre adicionar um arquivo README marcando a caixinha "add a README file", em seguida você pode       clicar em <strong>create a new repository</strong> </p>
