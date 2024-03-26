@@ -76,6 +76,7 @@
  <h4>git push origin master</h4>
    <p>Esse comando <strong>git push origin master</strong> empurra os arquivos/alterações para o seu repositório no github </p>
 
+![WhatsApp Image 2024-03-25 at 4 34 28 PM](https://github.com/hudson12345/Reposit-rio-LP/assets/105759351/2de92f72-c20b-434a-bd52-b3d99035ef93)
 
 <h3>Adicionando um membro ao repositório</h3>
   <p>após tudo isso você deve ter conseguido mandar o arquivo ao github mas agora vamos adicionar um membro ao seu repositório</p>
