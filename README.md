@@ -1,4 +1,7 @@
 # Reposit-rio-LP
+<h1>Atividade Github</h1>
+<h2>Alunos: Bruno Queiroz Plata e Hudson Araújo</h2>
+<hr>
 <h1>Instruções</h1>
 
 <h2>Baixar o Git</h2>
